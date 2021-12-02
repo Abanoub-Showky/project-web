@@ -1,0 +1,15 @@
+
+p{
+  text-align: center;
+}
+
+div{
+  background-color: red;
+  color: blue;
+  border: 6px solid black;
+  border-radius: 10px 20px 30px 40px;
+  width: 50%;
+  margin: 10px 20px 30px 40px;
+  padding: 10px;
+  text-align: right;
+}
